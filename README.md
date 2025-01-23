@@ -1,5 +1,5 @@
 # Nyasino
-Terminal gambling game
+Terminal gambling framework
 
 ## Compiling
 To compile Nyasino, simply open the /nyasino/ folder on the terminal and type `javac *.java`, you may need to instal Java to do so.
