@@ -1,0 +1,2 @@
+# Nyasino
+Terminal gambling game
